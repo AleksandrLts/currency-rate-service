@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: io.projectreactor.addons:reactor-pool:1.0.2" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.projectreactor.addons" artifactId="reactor-pool" version="1.0.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor.addons/reactor-pool/1.0.2/bf1cadeb213c70e695a8de9994617d93b15387e8/reactor-pool-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
