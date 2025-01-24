@@ -33,8 +33,9 @@ The **Currency Rate Service** is a Spring Boot application that retrieves and co
 
 ### Clone the Repository
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/AleksandrLts/currency-rate-service
+cd currency-rate-service
+cd currency-rate-service
 ```
 ### Set Up PostgreSQL with Docker
 ```bash
