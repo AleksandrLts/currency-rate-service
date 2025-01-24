@@ -24,14 +24,6 @@ The **Currency Rate Service** is a Spring Boot application that retrieves and co
 ## Prerequisites
 
 - **Java 21**
-- **SpringBoot**
-- **WebFlux**
-- **MapStruct**
-- **Lombok**
-- **FlyWay**
-- **R2DBC**
-- **TestContainers**
-- **UnitTests**
 - **Docker** (for PostgreSQL setup)
 - **Gradle** (build tool)
 
